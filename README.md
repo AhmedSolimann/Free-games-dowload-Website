@@ -1,4 +1,4 @@
-# Free-games-dowload-Website
+# Free-games-download-Website
 
 The webiste is mainly for downloading games, each game has its own screenshots, description and the link for downloading.
 
