@@ -1,8 +1,8 @@
 # Free-games-download-Website
 
-The webiste is mainly for downloading games, each game has its own screenshots, description and the link for downloading.
+The website is mainly for downloading games, each game has its own screenshots, description and the link for downloading.
 
-I don't upload games on this webiste anymore, the domain for this website is **http://www.xogamer.ga/**
+I don't upload games on this website anymore, the domain for this website is **http://www.xogamer.ga/**
 
 **This website is coded with HTML, CSS and JavaScript.**
 
